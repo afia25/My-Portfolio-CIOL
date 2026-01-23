@@ -16,10 +16,10 @@ export const ABOUT_TEXT3 = `I am eager to connect with you and welcome any feedb
 export const EXPERIENCES = [
   {  
     year: "July 2025 - Present",
-    role: "Instructor at the UAP Software Development Club",
-    company: "University of Asia Pacific",
-    description: `Conducting lectures and sessions on programming languages (Python, Java), Data Structures and Algorithms (DSA), problem solving, and version control (GitHub). Conducting lectures on Web & App Development (JavaScript, Django, SQL). Mentoring software projects of students. Helping organize programming contests and software exhibitions. Designing problem statements for DSA. Guiding students in preparing portfolios.`,
-    technologies: ["Web & App Development (Python, Django, SQL, Github)", "Programming Languages", "DSA", "Problem Solving"],
+    role: "AI Engineer",
+    company: "PowerInAI",
+    description: `Build an N8N-integrated MCP chatbot with intent detection, large-scale contextual retrieval knowledge base and workflows using contextual chunking, embeddings and reranking. Testing of the chatbot.`,
+    technologies: ["N8N", "MCP Server", "Contextual Chunking", "RAG", "Contextual Retrieval"],
   },
 ];
 
