@@ -32,7 +32,7 @@ const Hero = () => {
                     initial="hidden" 
                     animate="visible"
                     className="mx-12 bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
-                        Aspiring Full-Stack Software Engineer | Passionate About Programming & Problem Solving
+                        AI Engineer 
                     </motion.span> 
                     <motion.p 
                     variants={container(1)} 
