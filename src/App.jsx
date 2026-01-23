@@ -26,7 +26,7 @@ const App = () => {
       <Experience />    {/*  did NOT change anything related to exp anywhere. only commented out exp here. */}
       <Education />
       <Awards />
-      <Programming />
+       {/*    <Programming />      */}
       <Projects />
       <Publication />
       <Contact />
